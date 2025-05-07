@@ -1,4 +1,4 @@
-💡 Uygulama Hakkında
+💡 Uygulama Hakkında <br>
 Merhabalar!
 Bu uygulamanın amacı, muhtemelen hayatınızda çok sık karşılaşmadığınız bir soruna pratik bir çözüm sunmaktır.
 
@@ -8,9 +8,9 @@ Elbette bu sorunu PowerShell üzerinden yalnızca birkaç satır komutla çözme
 🛠️ Bu nedenle bu uygulamayı geliştirdim.
 Kullanıcı dostu grafik arayüzü sayesinde yalnızca 3 tık ile çevrimdışı durumda olan diski tekrar çevrimiçi konuma getirebilirsiniz.
 
-🎯 Artık terminal komutlarıyla uğraşmak yerine, bu uygulamayı paylaşmam yeterli olacak!
-<br>
-💡 About the Application
+🎯 Artık terminal komutlarıyla uğraşmak yerine, bu uygulamayı paylaşmam yeterli olacak! <hr>
+
+💡 About the Application<br>
 Hello there!
 The purpose of this application is to provide a practical solution to a problem you probably don’t encounter very often.
 
