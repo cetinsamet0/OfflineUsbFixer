@@ -1,4 +1,4 @@
-💡 Uygulama Hakkında <br>
+<b>💡 Uygulama Hakkında <b> <br>
 Merhabalar!
 Bu uygulamanın amacı, muhtemelen hayatınızda çok sık karşılaşmadığınız bir soruna pratik bir çözüm sunmaktır.
 
@@ -10,7 +10,7 @@ Kullanıcı dostu grafik arayüzü sayesinde yalnızca 3 tık ile çevrimdışı
 
 🎯 Artık terminal komutlarıyla uğraşmak yerine, bu uygulamayı paylaşmam yeterli olacak! <hr>
 
-💡 About the Application<br>
+<b>💡 About the Application <b>  <br>
 Hello there!
 The purpose of this application is to provide a practical solution to a problem you probably don’t encounter very often.
 
