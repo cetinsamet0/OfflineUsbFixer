@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CetinSametProjects\\OfflineUsbRepair\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CA4F83-363B-48B7-9223-3EC94F381B5C}|OfflineUsbRepair.csproj|d:\\cetinsametprojects\\offlineusbrepair\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CA4F83-363B-48B7-9223-3EC94F381B5C}|OfflineUsbRepair.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\CetinSametProjects\\OfflineUsbRepair\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "D:\\CetinSametProjects\\OfflineUsbRepair\\main.cs [Tasar\u0131m]",
+              "RelativeToolTip": "main.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:16:11.523Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

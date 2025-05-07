@@ -1,0 +1,17 @@
+D:\CetinSametProjects\OfflineUsbRepair\bin\Release\net8.0-windows\OfflineUsbRepair.exe
+D:\CetinSametProjects\OfflineUsbRepair\bin\Release\net8.0-windows\OfflineUsbRepair.deps.json
+D:\CetinSametProjects\OfflineUsbRepair\bin\Release\net8.0-windows\OfflineUsbRepair.runtimeconfig.json
+D:\CetinSametProjects\OfflineUsbRepair\bin\Release\net8.0-windows\OfflineUsbRepair.dll
+D:\CetinSametProjects\OfflineUsbRepair\bin\Release\net8.0-windows\OfflineUsbRepair.pdb
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.main.resources
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.Properties.Resources.resources
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.csproj.GenerateResource.cache
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.GeneratedMSBuildEditorConfig.editorconfig
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.AssemblyInfoInputs.cache
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.AssemblyInfo.cs
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.csproj.CoreCompileInputs.cache
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.dll
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\refint\OfflineUsbRepair.dll
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.pdb
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\OfflineUsbRepair.genruntimeconfig.cache
+D:\CetinSametProjects\OfflineUsbRepair\obj\Release\net8.0-windows\ref\OfflineUsbRepair.dll
